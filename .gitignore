@@ -1,2 +1,4 @@
+/node_modules
+/node
 /target
 /.idea/workspace.xml
